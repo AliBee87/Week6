@@ -1,4 +1,4 @@
-This page tests the security of my frontend and backend. 
+This project concerns frontend/backend security. 
 
 Getting Started
 
