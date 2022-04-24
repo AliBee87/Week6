@@ -1,39 +1,33 @@
-This project concerns frontend/backend security. 
+# Front End
 
-Getting Started
+In a new editor window, enter: 
 
-You will first have to make sure you have my other repository installed. Repository and instructions are here: https://github.com/AliBee87/MSSE661MongoAPI
+```
+git clone
+```
 
-Then you will have to enter npm run dev to get the server going.
+Then, in your terminal, input the following to **install React:**
 
-To Run This Project
+```
+npx-create-react-app weeksix
+```
 
-First, ensure you have npm installed.
-
-Then, in your terminal, input
-
- npx create-react-app [name]
- 
 Then, enter
 
-cd [name]
-
-And then,
-
+```
+cd weeksix
 code .
+```
 
-to get into the file.
+Install the following **packages using npm i:**
+```
+@fortawesome/fontawesome-svg-core
 
-You'll need to make sure you have the following packages installed:
+@fortawesome/free-solid-svg-icons
 
- @fortawesome/fontawesome-svg-core
+@fortawesome/react-fontawesome
 
- @fortawesome/free-solid-svg-icons
- 
- @fortawesome/react-fontawesome
- 
- axios
- 
-To install, enter npm i and the package in your terminal.
+axios
+```
 
-Then, to run, go to the file location, then enter npm start in your terminal. Thanks for checking out my work!
+**Then, to run the Front End, enter npm start in your terminal.** Thanks for checking out my work! 
